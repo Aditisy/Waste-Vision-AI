@@ -1,0 +1,16 @@
+location,lat,lon,categories,item_count,priority,status,is_demo
+Riverside Park,19.076,72.877,"plastic|paper",3,High,Reported,1
+Market Street,19.081,72.881,"plastic|organic",4,Medium,Resolved,1
+Central Bus Stop,19.070,72.869,general,5,Low,In Progress,1
+School Lane,19.085,72.872,"paper|metal",6,High,Reported,1
+Lake View,19.091,72.890,"plastic|glass",7,Medium,Resolved,1
+Community Garden,19.064,72.884,organic,8,Low,Reported,1
+Old Town Square,19.073,72.858,"general|plastic",9,High,Reported,1
+Station Road,19.080,72.862,paper,3,Medium,Resolved,1
+Canal Walk,19.095,72.866,"plastic|metal|general",4,Low,In Progress,1
+Library Corner,19.068,72.875,"glass|plastic",5,High,Reported,1
+West Playground,19.060,72.865,"organic|paper",6,Medium,Resolved,1
+Harbor Approach,19.055,72.889,"general|plastic",7,Low,Reported,1
+North Avenue,19.100,72.879,"metal|plastic",8,High,Reported,1
+Clinic Junction,19.088,72.853,"paper|organic",9,Medium,In Progress,1
+Civic Plaza,19.077,72.895,"plastic|general",10,Low,Reported,1
